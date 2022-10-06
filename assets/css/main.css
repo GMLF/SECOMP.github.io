@@ -2222,14 +2222,15 @@ input, select, textarea {
 
 		#header .button {
 			display: inline-block;
-			border-radius: 100%;
-			width: 4.5em;
-			height: 4.5em;
-			line-height: 4.5em;
-			text-align: center;
-			font-size: 1.25em;
-			padding: 0;
-			font-family: 'Impact';
+            border-radius: 0.5em;
+            width: 8.5em;
+            height: 2.5em;
+            line-height: 2.5em;
+            text-align: center;
+            font-size: 1.25em;
+            padding: 0;
+            margin-top: 0.5em;
+            font-family: 'Impact';
 		}
 
 		#header hr {
@@ -2258,7 +2259,7 @@ input, select, textarea {
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #0a172b;
 			display: block;
 			position: absolute;
 			left: 0;
@@ -2269,7 +2270,7 @@ input, select, textarea {
 			-moz-transition: opacity 2.5s ease-in-out;
 			-webkit-transition: opacity 2.5s ease-in-out;
 			-ms-transition: opacity 2.5s ease-in-out;
-			transition: opacity 2.5s ease-in-out;
+			transition: opacity 3s ease-in-out;
 			-moz-transition-delay: 0.5s;
 			-webkit-transition-delay: 0.5s;
 			-ms-transition-delay: 0.5s;
@@ -2293,6 +2294,9 @@ input, select, textarea {
 		overflow: hidden;
 	}
 
+	#text_nav:hover{
+		color:#df7366;
+	}
 		#nav > ul {
 			line-height: 0px;
 			position: relative;
@@ -3091,6 +3095,7 @@ input, select, textarea {
 				display: none;
 			}
 
+		
 		/* Banner */
 
 			#banner {
