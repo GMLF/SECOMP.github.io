@@ -2233,6 +2233,26 @@ input, select, textarea {
             font-family: 'Impact';
 		}
 
+
+		@keyframes bounce {
+			0%,20%,60%,100%{
+				transform: translateY(0px);
+			}
+			
+			40%{
+				transform: translateY(-20px);
+			}
+
+			80%{
+				transform: translateY(-10px);
+			}
+		}
+
+		#efeito:hover{
+			animation: bounce 1s linear;
+		}
+
+
 		#header hr {
 			top: 1.5em;
 			margin-bottom: 3em;
