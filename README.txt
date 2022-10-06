@@ -1,33 +1,22 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Site desenvolvido com a finalidade de utilização para IV Semana Acadêmica de Engenharia de Computação e I Semana de Ciência e Tecnologia.
+
+A mesma será ofertada para a comunidade interna e externa com a finalidade de introduzir os mesmos ao mundo da tecnológia através de mini-cursos e palestras.
 
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
+linguagens utilizadas:
 
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
-
-http://md.photomerchant.net/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
+CSS
+HTML
+SCSS
+JavaScript
 
 
-Credits:
+Autores do site:
 
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
+@Guilherme Moreira Lima Furlaneto
+@Gabriel Molina de Lima
+@Pedro Mian Parra.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+date 							University
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+06/10/22			Universidade Tecnológica Federal do Paraná - Campus Apucarana.
