@@ -8,7 +8,6 @@
 
 	var	$window = $(window),
 		$body = $('body'),
-		$footer = $('footer')
 		settings = {
 
 			// Carousels
