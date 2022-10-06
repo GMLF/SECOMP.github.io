@@ -2524,7 +2524,7 @@ input, select, textarea {
 			}
 
 				#footer .copyright a:hover {
-					color: rgba(212, 212, 212, 0.85);
+					color: rgba(172, 27, 27, 0.85);
 				}
 
 /* Carousel */
@@ -2551,7 +2551,7 @@ input, select, textarea {
 				width: 6em;
 				height: 6em;
 				border-radius: 100%;
-				background-color: rgba(72, 57, 73, 0.5);
+				background-color: rgba(13, 4, 14, 0.5);
 				position: absolute;
 				top: 50%;
 				margin-top: -3em;
