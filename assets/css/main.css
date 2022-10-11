@@ -1975,8 +1975,15 @@ input, select, textarea {
 					line-height: 1.5em;
 					text-align: center;
 				}
-			
-
+				#footer img.alvaz{
+					margin-top: -15px;
+					display: inline-block;
+					background: none;
+					width: 10em;
+					height: 7em;
+					line-height: 1em;
+					text-align: center;
+				}
 
 /* Form */
 
@@ -2798,7 +2805,15 @@ input, select, textarea {
 				line-height: 2em;
 				text-align: center;
 			}
-			
+			#footer img.alvaz{
+				margin-top: -15px;
+				display: inline-block;
+				background: none;
+				width: 3em;
+				height: 3m;
+				line-height: 2em;
+				text-align: center;
+			}
 
 	}
 
@@ -2861,7 +2876,15 @@ input, select, textarea {
 				line-height: 1.5em;
 				text-align: center;
 			}
-		
+			#footer img.alvaz{
+				margin-top: -15px;
+				display: inline-block;
+				background: none;
+				width: 4em;
+				height: 4em;
+				line-height: 1.5em;
+				text-align: center;
+			}
 
 		/* Carousel */
 
@@ -3289,10 +3312,14 @@ input, select, textarea {
 				line-height: 2em;
 				text-align: center;
 			}
-		
-			.alvaz{
-				width: 39px;
-				height: 39px;
+			#footer img.alvaz{
+				margin-top: -20px;
+				display: inline-block;
+				background: none;
+				width: 6em;
+				height: 6em;
+				line-height: 10em;
+				text-align: center;
 			}
 
 		/* Carousel */
