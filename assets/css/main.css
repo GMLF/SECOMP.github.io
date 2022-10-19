@@ -124,6 +124,7 @@ input, select, textarea {
 
 	h2 {
 		font-size: 2.85em;
+		margin-top: 30px;
 	}
 
 	h3 {
@@ -2217,7 +2218,7 @@ input, select, textarea {
 
 	.wrapper {
 		background: #fff;
-		margin: 0 0 2em 0;
+		margin: 0 0 0em 0;
 		padding: 6em 0 6em 0;
 	}
 
@@ -2550,7 +2551,7 @@ input, select, textarea {
 		padding: 0em 0 1em 0;
 		background: #183449;
 		color: #fff;
-		margin: -39px 0 0 0;
+		margin: 0 0 0 0;
 	}
 
 		#footer .icon.circled {
