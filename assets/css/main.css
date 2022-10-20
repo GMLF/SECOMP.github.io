@@ -1810,9 +1810,8 @@ input, select, textarea {
 		}
 
 		.image.campus{
-			display: block;
+			display: inline-block;
 			width: 50%;
-			margin: 0 0 0 340px;
 		}
 
 		.image.left {
