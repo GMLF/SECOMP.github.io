@@ -1,6 +1,6 @@
 # 🌐 Bem-vindo ao nosso Projeto para a IV Semana Acadêmica de Engenharia de Computação e I Semana de Ciência e Tecnologia! 🚀
 
-![Banner](https://gmlf.github.io/SECOMP.github.io/assets/img/banner.jpg)
+[Explore o Site Aqui](https://gmlf.github.io/SECOMP.github.io/)
 
 Este site foi cuidadosamente desenvolvido para proporcionar uma experiência incrível durante as atividades da semana acadêmica. Nosso objetivo é levar a tecnologia de uma forma envolvente para a comunidade interna e externa, oferecendo mini-cursos e palestras imperdíveis!
 
